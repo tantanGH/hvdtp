@@ -9,7 +9,7 @@ A simple high memory VDT/V16 movie player for Human68k/X680x0
 ハイメモリ専用のVDT/V16動画プレーヤです。
 
  - fpsを優先するため逐次読み込み再生ではなくすべてハイメモリに一括バッファ
- - 5つの表示モードをサポート
+ - 5つの表示モードをサポート (再生中にF1~F5で切り替え可能)
  - 15kHz/31kHzモード両対応
  - リピート再生対応 
  - PCMドライバとしてPCM8A.X / PCM8PP.X を使用
