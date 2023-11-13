@@ -39,7 +39,6 @@ PCM8A.X または PCM8PP.X をあらかじめ常駐させておきます。
               -l[n]         ... リピート回数指定。数字省略で無限リピート。(0:endless, 1:default)
               -s<1-7>       ... 画面表示モード (1:default)
               -c<15|31>     ... 15/31kHz mode (15:default)
-              -y<n>         ... view height (1-120, 120:default)
               -q            ... quiet mode
               -h            ... show help message
 
