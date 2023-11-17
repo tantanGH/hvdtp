@@ -92,6 +92,13 @@ MercuryUnit V3と組み合わせて 44.1kHz ステレオ 30FPS のV16再生が�
 
 ---
 
+## VDT/V16データ作成方法
+
+当時物のデータ以外に新規作成する場合は拙作 [xmkvdt](http://github.com/tantanGH/xmkvdt/) などが使えます。
+ただ、要Python環境の上に、全くドキュメント書いてませんが...
+
+---
+
 ## History
 
 * 0.3.4 (2023/11/16) ... 環境変数 HVDTP_OPTS に対応した。
