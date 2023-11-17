@@ -17,7 +17,7 @@ A simple high memory VDT/V16 movie player for Human68k/X680x0
 当時物のVDT/V16プレーヤーソフトはPhantomXライトバックモードで正常に動作しないものが多いのと、当時存在し得なかったハイメモリフルバッファリングでの再生を試してみたかったので作成しました。
 
 なお、ポスター画像(サムネイル画像)表示には対応していません。圧縮形式VDTにも対応していません。
-MCSEL.X と組み合わせての利用を推奨します。
+拙作 [MCSEL.X](https://github.com/tantanGH/mcsel) と組み合わせての利用を推奨します。
 
 <img src='images/hvdtp1.jpeg'/>
 
