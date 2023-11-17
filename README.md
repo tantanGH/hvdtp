@@ -19,6 +19,8 @@ A simple high memory VDT/V16 movie player for Human68k/X680x0
 なお、ポスター画像(サムネイル画像)表示には対応していません。圧縮形式VDTにも対応していません。
 MCSEL.X と組み合わせての利用を推奨します。
 
+<img src='images/hvdtp1.jpeg'/>
+
 ---
 
 ## 動作環境
